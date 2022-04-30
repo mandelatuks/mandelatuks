@@ -10,6 +10,7 @@
 <br />
 <br />
 
+
 Hi, I'm Mandela, a software Developer 🚀 from Zambia, currently, I'm a student of Microverse. Beside's programming, I enjoy eating food,traveling,playing basketball and giving back to the community.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -33,5 +34,22 @@ Hi, I'm Mandela, a software Developer 🚀 from Zambia, currently, I'm a student
 
 <br />
 <br />
+ 
+ <p align="center">
+  <strong>
+ My Github Stats
+  </strong> 
+  </p>
+  <hr>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandelatuks&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="mandela" valign="center"/>
+</p>
+<table>
+  <tr>
+  <td halign="bottom"><img src="https://github-readme-stats.vercel.app/api?username=mandelatuks&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
+  </td> 
 
-![mandela's github stats](https://github-readme-stats.vercel.app/api?username=mandelatuks&theme=dark&show_icons=true)
+  <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=mandelatuks&theme=chartreuse-dark"></td>
+</tr>
+</table>
+ 
